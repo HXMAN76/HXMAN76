@@ -14,10 +14,10 @@
 
 ###
 
-<h5>- Gaming [Valorant, etc]<br>
+- Gaming [Valorant, etc]<br>
 - Anime[One Piece]<br>
 - Coding [Leetcode]<br>
-- Music [Spotify] </h5>
+- Music [Spotify] 
 
 ###
 
