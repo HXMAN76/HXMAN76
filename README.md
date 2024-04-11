@@ -7,6 +7,7 @@
 ###
 
 <p align="left">I am a code geek, trying to make myself better each day, I am open to learning new things.<br>👯 I’m looking to collaborate on AI DEVELOPMENT AND MACHINE LEARNING<br>🤝 I’m from India<br>🌱 I’m currently pursuing my undergraduate degree in AI</p>
+<h6 align="center">Any fool can write code that a computer can understand. Good programmers write code that humans can understand</h6>
 
 ###
 
