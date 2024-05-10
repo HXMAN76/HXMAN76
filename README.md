@@ -22,10 +22,10 @@
 
 ###
 <h4 align="left">List of my works</h4>
- <a href = https://github.com/MAD-MAN-HEMAN/MyLeetcode target = "_blank">My leetcode Solutions🖤</a> 
- <br><a href = https://github.com/MAD-MAN-HEMAN/Team-Nooglers target = "_blank"> Deep Fake Detection Shield🛡️</a>
- <br><a href = https://github.com/MAD-MAN-HEMAN/Binary-Search-Tree-Implementation> Binary search tree implementation🏛️</a>
- <br><a href= https://github.com/MAD-MAN-HEMAN/Image-Steganography> Image Steganography 🖼️</a>
+ - <a href = https://github.com/MAD-MAN-HEMAN/MyLeetcode target = "_blank">My leetcode Solutions🖤</a> 
+ <br>- <a href = https://github.com/MAD-MAN-HEMAN/Team-Nooglers target = "_blank"> Deep Fake Detection Shield🛡️</a>
+ <br>- <a href = https://github.com/MAD-MAN-HEMAN/Binary-Search-Tree-Implementation> Binary search tree implementation🏛️</a>
+ <br>- <a href= https://github.com/MAD-MAN-HEMAN/Image-Steganography> Image Steganography 🖼️</a>
 
 ###
 <div align="center">
