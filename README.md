@@ -15,9 +15,9 @@
 
 ###
 
-- Gaming [Valorant, etc]<br>
-- Anime[One Piece]<br>
-- Coding [Leetcode]<br>
+- Gaming [Valorant, Genshin Impact, GTA 5, CODM, etc]<br>
+- Anime[One Piece, Demon Slayer, Naruto, AOT, etc]<br>
+- Coding [Leetcode, DSA problems, Projects, etc]<br>
 - Music [Spotify] 
 
 ###
