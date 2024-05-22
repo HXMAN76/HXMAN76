@@ -28,6 +28,17 @@
  <br>- <a href= https://github.com/MAD-MAN-HEMAN/Image-Steganography> Image Steganography 🖼️</a>
 
 ###
+
+<div align = "center">
+ <img src = https://assets.leetcode.com/static_assets/public/images/badges/2024/gif/2024-04.gif height = "50"  />
+ <img src = https://assets.leetcode.com/static_assets/marketing/2024-50.gif height = "50" /> 
+</div>
+<div align = "center" >
+<img src = https://leetcard.jacoblin.cool/HARI_HEMAN_VK?theme=dark&font=Exo%202&ext=heatmap />
+</div>
+
+###
+
 <div align="center">
   <img src="https://profile-counter.glitch.me/MAD-MAN-HEMAN/count.svg?"  />
 </div>
@@ -53,6 +64,7 @@
 </div>
 
 ###
+
 
 <img align="right" height="150" src="https://gifdb.com/images/high/cute-laughing-luffy-am88vo5oczuk7eu9.gif"  />
 
