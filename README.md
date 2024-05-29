@@ -34,7 +34,7 @@
  <img src = https://assets.leetcode.com/static_assets/marketing/2024-50.gif height = "50" /> 
 </div>
 <div align = "center" >
-<img src = https://leetcard.jacoblin.cool/HARI_HEMAN_VK?theme=dark&font=Exo%202&ext=heatmap />
+<a href = https://leetcode.com/u/HARI_HEMAN_VK/><img src = https://leetcard.jacoblin.cool/HARI_HEMAN_VK?theme=dark&font=Exo%202&ext=heatmap /></a>
 </div>
 
 ###
