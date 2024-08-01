@@ -1,4 +1,7 @@
-<h1 align="center">Hello world <3</h1>
+<div style="display:flex;align-items:flex-end;">
+<h1 align="center">Hello world
+ <img src = https://images.emojiterra.com/google/noto-emoji/animated-emoji/1f44b.gif height = "50"></h1>
+</div>
 
 ###
 
