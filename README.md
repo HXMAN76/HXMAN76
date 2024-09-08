@@ -6,7 +6,7 @@
 ###
 
 <p align="center">
- <img src="https://readme-typing-svg.herokuapp.com?lines=Artificial+Intelligence+Undergraduate;Programmer,+Developer,+Problem+Solver;&center=true&width=500&height=50">
+ <img src="https://readme-typing-svg.herokuapp.com?lines=Artificial+Intelligence+Undergraduate;AI+based+Application+Developer;&center=true&width=500&height=50&color=02F6F7">
 </p>
 
 ###
