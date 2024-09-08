@@ -6,7 +6,7 @@
 ###
 
 <p align="center">
-  <a href="https://github.com/Ratheshan03/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Artificial+Intelligence+Undergraduate;AI+based+Application+Developer;&center=true&width=500&height=50"></a>
+  <a href="https://github.com/Ratheshan03/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Artificial+Intelligence+Undergraduate;Programmer,+Developer,+Problem+Solver;&center=true&width=500&height=50"></a>
 </p>
 
 ###
@@ -56,6 +56,12 @@
 
 <div align="center">
   <img src="https://profile-counter.glitch.me/MAD-MAN-HEMAN/count.svg?"  />
+</div>
+
+###
+
+<div align = "center">
+ <img src = "https://github-readme-stats.vercel.app/api?username=MAD-MAN-HEMAN&theme=vue-dark&show_icons=true&hide_border=true&count_private=true" />
 </div>
 
 ###
