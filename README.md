@@ -1,17 +1,10 @@
-<div style="display:flex;align-items:flex-end;">
+<div style="display:flex;align-items:flex-end;" align = "center">
 <h1 align="center">Hello world
  <img src = https://images.emojiterra.com/google/noto-emoji/animated-emoji/1f44b.gif height = "50"></h1>
+ <p>
+ <img src="https://readme-typing-svg.herokuapp.com?lines=Artificial+Intelligence+Undergraduate;AI+based+Application+Developer;Programming+Problem+Solver;&center=true&width=500&height=50&color=02F6F7">
+ </p>
 </div>
-
-###
-
-<p align="center">
- <img src="https://readme-typing-svg.herokuapp.com?lines=Artificial+Intelligence+Undergraduate;AI+based+Application+Developer;&center=true&width=500&height=50&color=02F6F7">
-</p>
-
-###
-
-###
 
 <h1 align="left">💫 About Me</h1>
 
@@ -48,20 +41,17 @@
  <img src = https://leetcode.com/static/images/badges/2024/gif/2024-05.gif height = "50" />
 </div>
 
-<div align = "center" >
+<div style = "display: flex; justify-content: space-evenly;">
 <a href = https://leetcode.com/u/HARI_HEMAN_VK/><img src = https://leetcard.jacoblin.cool/HARI_HEMAN_VK?theme=dark&font=Exo%202&ext=heatmap /></a>
+<span>ㅤㅤ</span>
+<img src = "https://github-readme-stats.vercel.app/api?username=MAD-MAN-HEMAN&theme=vue-dark&show_icons=true&hide_border=true&count_private=true" />
 </div>
 
-###
-
-<div align="center">
-  <img src="https://profile-counter.glitch.me/MAD-MAN-HEMAN/count.svg?"  />
-</div>
 
 ###
 
 <div align = "center">
- <img src = "https://github-readme-stats.vercel.app/api?username=MAD-MAN-HEMAN&theme=vue-dark&show_icons=true&hide_border=true&count_private=true" />
+<img src="https://profile-counter.glitch.me/MAD-MAN-HEMAN/count.svg?"  />
 </div>
 
 ###
