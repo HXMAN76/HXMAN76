@@ -37,8 +37,10 @@
 <div align = "center">
  <img src = https://assets.leetcode.com/static_assets/public/images/badges/2024/gif/2024-04.gif height = "50"  />
  <img src = https://assets.leetcode.com/static_assets/marketing/2024-50.gif height = "50" />
-  <img src = https://assets.leetcode.com/static_assets/marketing/2024-100-new.gif height = "50"/>
+ <img src = https://assets.leetcode.com/static_assets/marketing/2024-100-new.gif height = "50"/>
  <img src = https://leetcode.com/static/images/badges/2024/gif/2024-05.gif height = "50" />
+ <img src = https://assets.leetcode.com/static_assets/public/images/badges/2024/gif/2024-09.gif height = "50" />
+ 
 </div>
 
 <div style = "display: flex; justify-content: space-evenly;">
