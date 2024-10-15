@@ -46,7 +46,7 @@
 <div style = "display: flex; justify-content: space-evenly;">
 <a href = https://leetcode.com/u/HARI_HEMAN_VK/><img src = https://leetcard.jacoblin.cool/HARI_HEMAN_VK?theme=dark&font=Exo%202&ext=heatmap /></a>
 <span></span>
-<img src = "https://github-readme-stats.vercel.app/api?username=MAD-MAN-HEMAN&theme=vue-dark&show_icons=true&hide_border=true&count_private=true" />
+<img src = "https://github-readme-stats.vercel.app/api?username=HXMAN76&theme=vue-dark&show_icons=true&hide_border=true&count_private=true" />
 </div>
 
 
