@@ -41,15 +41,9 @@
  <img src = https://assets.leetcode.com/static_assets/marketing/2024-100-new.gif height = "50"/>
  <img src = https://leetcode.com/static/images/badges/2024/gif/2024-05.gif height = "50" />
  <img src = https://assets.leetcode.com/static_assets/public/images/badges/2024/gif/2024-09.gif height = "50" />
+ <img src =  https://assets.leetcode.com/static_assets/public/images/badges/2024/gif/2024-10.gif height = "50 />
  
 </div>
-
-<div style = "display: flex; justify-content: space-evenly;">
-<a href = https://leetcode.com/u/HARI_HEMAN_VK/><img src = https://leetcard.jacoblin.cool/HARI_HEMAN_VK?theme=dark&font=Exo%202&ext=heatmap /></a>
-<span></span>
-<img src = "https://github-readme-stats.vercel.app/api?username=HXMAN76&theme=vue-dark&show_icons=true&hide_border=true&count_private=true" />
-</div>
-
 
 ###
 
