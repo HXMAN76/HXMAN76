@@ -77,7 +77,7 @@
 <img align="right" height="150" src="https://github.com/HXMAN76/HXMAN76/blob/main/Assets/luffy.gif"  />
 
 ###
-<h3>🌐 Socials:</h3>
+<h3>🌐 <img src='https://github.com/HXMAN76/HXMAN76/blob/main/Assets/handshake.gif?raw=true' width="100px"> Socials:</h3>
 
 <div align="left">
   <a href="https://www.instagram.com/mad__man__heman/?hl=en" target="_blank">
