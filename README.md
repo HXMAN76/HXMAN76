@@ -12,8 +12,9 @@
 
 <!--<h1 align="left">💫 About Me</h1>-->
 ### 💫 About Me
-<a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://github.com/HXMAN76/HXMAN76/blob/main/Assets/loading.gif?raw=true"></a>
 
+<a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://github.com/HXMAN76/HXMAN76/blob/main/Assets/loading.gif?raw=true"></a>
+<img align="right" height="300" src="https://github.com/HXMAN76/HXMAN76/blob/main/Assets/myself_in_gif.gif?raw=true"  />
 
 <p align="left">I am a code geek, trying to make myself better each day, I am open to learning new things.<br>👯 I’m looking to collaborate on AI DEVELOPMENT AND MACHINE LEARNING<br>🤝 I’m from India<br>🌱 I’m currently pursuing my undergraduate degree in AI</p>
 
@@ -56,7 +57,7 @@
 </div>
 
 ###
-
+<br>
 <div align = "center">
 <img src="https://profile-counter.glitch.me/HXMAN76/count.svg?"  />
 </div>
