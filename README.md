@@ -76,10 +76,6 @@
 
 ###
 
-<img src="https://profile-counter.glitch.me/HXMAN76/count.svg?"  />
-
-
-###
 <table>
   <tr>
     <th>Operating Systems</th>
@@ -116,9 +112,6 @@
 </table>
 
 <img width="100%" loading="lazy" src="assets/rainbow-superthin.gif">
-
-<br><br>
-
 
 
 <!--
@@ -158,6 +151,9 @@
 
 
 <img align="right" height="150" src="https://github.com/HXMAN76/HXMAN76/blob/main/Assets/luffy.gif"  />
+
+<img src="https://profile-counter.glitch.me/HXMAN76/count.svg?"  />
+
 
 ###
 <h3><img src='https://github.com/HXMAN76/HXMAN76/blob/main/Assets/handshake.gif?raw=true' width="100px"> Socials:</h3>
