@@ -1,14 +1,19 @@
 <div style="display:flex;align-items:flex-end;" align = "center">
-<h1 align="center">Hello world
- <img src = https://images.emojiterra.com/google/noto-emoji/animated-emoji/1f44b.gif height = "50"></h1>
- <p>
+
+ <h1 align="center" style="color:blue;">
+    Hello world 
+    <img src="https://images.emojiterra.com/google/noto-emoji/animated-emoji/1f44b.gif" height="50">
+</h1>
+
+
  <img src="https://readme-typing-svg.herokuapp.com?lines=Artificial+Intelligence+Undergraduate;AI+based+Application+Developer;Programming+Problem+Solver;&center=true&width=500&height=50&color=02F6F7">
- </p>
+
 </div>
 
-<h1 align="left">💫 About Me</h1>
+<!--<h1 align="left">💫 About Me</h1>-->
+### 💫 About Me
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-###
 
 <p align="left">I am a code geek, trying to make myself better each day, I am open to learning new things.<br>👯 I’m looking to collaborate on AI DEVELOPMENT AND MACHINE LEARNING<br>🤝 I’m from India<br>🌱 I’m currently pursuing my undergraduate degree in AI</p>
 <h6 align="center">Anyone can write code that a computer can understand. Good programmers write code that humans can understand</h6>
