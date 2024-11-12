@@ -74,6 +74,11 @@
  <img src =  https://assets.leetcode.com/static_assets/public/images/badges/2024/gif/2024-10.gif height = "50 />
  
 </div>
+###
+
+<div align= "center">
+<img src="https://profile-counter.glitch.me/HXMAN76/count.svg?"  />
+</div>
 
 ###
 
@@ -148,6 +153,7 @@
 </p>
 </div>
 -->
+###
 
 <img align="right" height="150" src="https://github.com/HXMAN76/HXMAN76/blob/main/Assets/luffy.gif"  />
 
