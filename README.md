@@ -74,7 +74,7 @@
 ###
 
 
-<img align="right" height="150" src="https://gifdb.com/images/high/cute-laughing-luffy-am88vo5oczuk7eu9.gif"  />
+<img align="right" height="150" src="https://github.com/HXMAN76/HXMAN76/blob/main/Assets/luffy.gif"  />
 
 ###
 <h3>🌐 Socials:</h3>
