@@ -6,17 +6,17 @@
 </h1>
 
 
- <img src="https://readme-typing-svg.herokuapp.com?lines=Artificial+Intelligence+Undergraduate;AI+based+Application+Developer;Programming+Problem+Solver;&center=true&width=500&height=50&color=02F6F7">
+ <img src="https://readme-typing-svg.herokuapp.com?lines=>+Artificial+Intelligence+Undergraduate;>+AI+based+Application+Developer;>+Programming+Problem+Solver;&center=true&width=500&height=50&color=39FF14">
 
 </div>
 
 <!--<h1 align="left">💫 About Me</h1>-->
 ### 💫 About Me
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+<img src="https://github.com/HXMAN76/HXMAN76/blob/main/Assets/loading.gif?raw=true">
 
 
 <p align="left">I am a code geek, trying to make myself better each day, I am open to learning new things.<br>👯 I’m looking to collaborate on AI DEVELOPMENT AND MACHINE LEARNING<br>🤝 I’m from India<br>🌱 I’m currently pursuing my undergraduate degree in AI</p>
-<h6 align="center">Anyone can write code that a computer can understand. Good programmers write code that humans can understand</h6>
+
 
 ###
 
@@ -28,6 +28,9 @@
 - Anime[One Piece, Demon Slayer, Naruto, AOT, etc]<br>
 - Coding [Leetcode, DSA problems, Projects, etc]<br>
 - Music [Spotify] 
+###
+
+<h6 align="center">Anyone can write code that a computer can understand. Good programmers write code that humans can understand</h6>
 
 ###
 <h4 align="left">List of my works</h4>
