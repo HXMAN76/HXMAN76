@@ -41,26 +41,26 @@
   <tr>
     <th>Leetcode 🖤</th>
     <th>Deepfake Detection 🛡️</th>
-    <th>Image Steganography 🖼️</th>
     <th>Anime Library 🌠</th>
     <th>NutrinO-RAG 🧑‍⚕️</th>
+    <th>Image Steganography 🖼️</th>
   </tr>
   <tr>
     <td><a href = https://github.com/HXMAN76/MyLeetcode target = "_blank"><img height="150" src="https://github.com/HXMAN76/HXMAN76/raw/refs/heads/main/Assets/leetcode.avif"  /></a></td>
      <td><a href = https://github.com/HXMAN76/Deepfake-Detection-Shield target = "_blank"><img height="150" src="https://github.com/HXMAN76/HXMAN76/blob/main/Assets/deepfake_project.jpg?raw=true"  /></a></td>
-    <td><a href = https://github.com/HXMAN76/Deepfake-Detection-Shield target = "_blank"><img height="150" src="https://github.com/HXMAN76/HXMAN76/blob/main/Assets/deepfake_project.jpg?raw=true"  /></a></td>
-   <td><a href = https://github.com/HXMAN76/Deepfake-Detection-Shield target = "_blank"><img height="150" src="https://github.com/HXMAN76/HXMAN76/blob/main/Assets/deepfake_project.jpg?raw=true"  /></a></td>
-   
+    <td><a href = https://github.com/HXMAN76/Anime-Library target = "_blank"><img height="150" src="https://github.com/HXMAN76/HXMAN76/blob/main/Assets/anime_library.jpeg?raw=true"  /></a></td>
+   <td><a href = https://github.com/HXMAN76/NutrinO-RAG target = "_blank"><img height="150" src="https://github.com/HXMAN76/HXMAN76/blob/main/Assets/NutrinO-RAG.png?raw=true"  /></a></td>
+   <td><a href = https://github.com/HXMAN76/Image-Steganography target = "_blank"><img height="150" src=""  /></a></td>
   </tr>
 </table>
 
 
 
- <br>- <a href = https://github.com/HXMAN76/Team-Nooglers target = "_blank"> Deep Fake Detection Shield🛡️</a>
+<!-- <br>- <a href = https://github.com/HXMAN76/Team-Nooglers target = "_blank"> Deep Fake Detection Shield🛡️</a>
  <br>- <a href = https://github.com/HXMAN76/Binary-Search-Tree-Implementation> Binary search tree implementation🏛️</a>
  <br>- <a href= https://github.com/HXMAN76/Image-Steganography> Image Steganography 🖼️</a>
  <br>- <a href = https://github.com/Rag-795/Anime-Library> Anime Library 🌠</a> 
- <br>- <a href = https://github.com/HXMAN76/NutrinO-RAG> NutrinO-RAG </a>
+ <br>- <a href = https://github.com/HXMAN76/NutrinO-RAG> NutrinO-RAG </a> -->
  
 ###
 
