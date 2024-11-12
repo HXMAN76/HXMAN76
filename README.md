@@ -81,6 +81,48 @@
 </div>
 
 ###
+<table>
+  <tr>
+    <th>Operating Systems</th>
+    <td>
+      <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ">
+        <img src="https://skillicons.dev/icons?i=linux,windows" />
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <th>Languages</th>
+    <td>
+      <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ">
+       <img src="https://skillicons.dev/icons?i=c,cpp,python,java,matlab,mysql&theme=light" />
+       </a>
+    </td>
+  </tr>
+  <tr>
+    <th>Dependencies</th>
+    <td>
+      <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ">
+       <img src="https://skillicons.dev/icons?i=github,git,tensorflow,regex,npm,opencv&theme=light" />
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <th>Softwares</th>
+      <td>
+       <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ">
+          <img src="https://skillicons.dev/icons?i=obsidian,vscode" />
+       </a>
+    </td>
+  </tr>
+</table>
+
+<img width="100%" loading="lazy" src="assets/rainbow-superthin.gif">
+
+<br><br>
+
+
+
+<!--
 <div align="center">
 <p align="center">
   <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ">
@@ -112,7 +154,7 @@
   </a>
 </p>
 </div>
-
+-->
 ###
 
 
