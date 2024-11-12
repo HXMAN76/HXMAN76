@@ -2,17 +2,17 @@
 
  <h1 align="center" style="color:blue;">
     Hello world 
-    <img src="https://images.emojiterra.com/google/noto-emoji/animated-emoji/1f44b.gif" height="50">
+    <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://images.emojiterra.com/google/noto-emoji/animated-emoji/1f44b.gif" height="50"></a>
 </h1>
 
 
- <img src="https://readme-typing-svg.herokuapp.com?lines=>+Artificial+Intelligence+Undergraduate;>+AI+based+Application+Developer;>+Programming+Problem+Solver;&center=true&width=500&height=50&color=39FF14">
+ <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://readme-typing-svg.herokuapp.com?lines=>+Artificial+Intelligence+Undergraduate;>+AI+based+Application+Developer;>+Programming+Problem+Solver;&center=true&width=500&height=50&color=39FF14"></a>
 
 </div>
 
 <!--<h1 align="left">💫 About Me</h1>-->
 ### 💫 About Me
-<img src="https://github.com/HXMAN76/HXMAN76/blob/main/Assets/loading.gif?raw=true">
+<a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://github.com/HXMAN76/HXMAN76/blob/main/Assets/loading.gif?raw=true"></a>
 
 
 <p align="left">I am a code geek, trying to make myself better each day, I am open to learning new things.<br>👯 I’m looking to collaborate on AI DEVELOPMENT AND MACHINE LEARNING<br>🤝 I’m from India<br>🌱 I’m currently pursuing my undergraduate degree in AI</p>
