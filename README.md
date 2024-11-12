@@ -30,6 +30,8 @@
 - Music [Spotify] 
 ###
 
+<a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://github.com/HXMAN76/HXMAN76/blob/main/Assets/loading.gif?raw=true"></a>
+
 <h6 align="center">Anyone can write code that a computer can understand. Good programmers write code that humans can understand</h6>
 
 ###
@@ -67,6 +69,7 @@
   </a>
 </p>
 </div>
+
 <div align="center">
 <p align="center">
   <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ">
@@ -74,6 +77,7 @@
   </a>
 </p>
 </div>
+
 <div align="center">
 <p align="center">
   <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ">
@@ -81,6 +85,7 @@
   </a>
 </p>
 </div>
+
 <div align="center">
 <p align="center">
   <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ">
