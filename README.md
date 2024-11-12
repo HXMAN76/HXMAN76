@@ -76,7 +76,7 @@
 
 ###
 <br>
-<div align = "center">
+<div>
 <img src="https://profile-counter.glitch.me/HXMAN76/count.svg?"  />
 </div>
 
