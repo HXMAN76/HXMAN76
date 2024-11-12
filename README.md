@@ -57,23 +57,33 @@
 </div>
 
 ###
-
 <div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="26" alt="python logo"  />
-  <img width="34" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="26" alt="c logo"  />
-  <img width="34" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="26" alt="java logo"  />
-  <img width="34" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" height="26" alt="jupyter logo"  />
-  <img width="34" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="26" alt="html5 logo"  />
-  <img width="34" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="26" alt="css3 logo"  />
-  <img width="34" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="26" alt="javascript logo"  />
-  <img width="34" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" height="26" alt="tensorflow logo"  />
+<p align="center">
+  <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ">
+    <img src="https://skillicons.dev/icons?i=linux,windows" />
+  </a>
+</p>
+</div>
+<div align="center">
+<p align="center">
+  <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ">
+    <img src="https://skillicons.dev/icons?i=c,cpp,python,java,matlab,mysql" />
+  </a>
+</p>
+</div>
+<div align="center">
+<p align="center">
+  <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ">
+    <img src="https://skillicons.dev/icons?i=npm,opencv,github,git,tensorflow,regex" />
+  </a>
+</p>
+</div>
+<div align="center">
+<p align="center">
+  <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ">
+    <img src="https://skillicons.dev/icons?i=obsidian,vscode" />
+  </a>
+</p>
 </div>
 
 ###
