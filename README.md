@@ -37,7 +37,25 @@
 
 ###
 <h4 align="left">List of my works</h4>
- - <a href = https://github.com/HXMAN76/MyLeetcode target = "_blank">My leetcode Solutions🖤</a> 
+<table>
+  <tr>
+    <th>Leetcode 🖤</th>
+    <th>Deepfake Detection 🛡️</th>
+    <th>Image Steganography 🖼️</th>
+    <th>Anime Library 🌠</th>
+    <th>NutrinO-RAG 🧑‍⚕️</th>
+  </tr>
+  <tr>
+    <td><a href = https://github.com/HXMAN76/MyLeetcode target = "_blank"><img height="150" src="https://github.com/HXMAN76/HXMAN76/raw/refs/heads/main/Assets/leetcode.avif"  /></a></td>
+     <td><a href = https://github.com/HXMAN76/Deepfake-Detection-Shield target = "_blank"><img height="150" src="https://github.com/HXMAN76/HXMAN76/blob/main/Assets/deepfake_project.jpg?raw=true"  /></a></td>
+    <td><a href = https://github.com/HXMAN76/Deepfake-Detection-Shield target = "_blank"><img height="150" src="https://github.com/HXMAN76/HXMAN76/blob/main/Assets/deepfake_project.jpg?raw=true"  /></a></td>
+   <td><a href = https://github.com/HXMAN76/Deepfake-Detection-Shield target = "_blank"><img height="150" src="https://github.com/HXMAN76/HXMAN76/blob/main/Assets/deepfake_project.jpg?raw=true"  /></a></td>
+   
+  </tr>
+</table>
+
+
+
  <br>- <a href = https://github.com/HXMAN76/Team-Nooglers target = "_blank"> Deep Fake Detection Shield🛡️</a>
  <br>- <a href = https://github.com/HXMAN76/Binary-Search-Tree-Implementation> Binary search tree implementation🏛️</a>
  <br>- <a href= https://github.com/HXMAN76/Image-Steganography> Image Steganography 🖼️</a>
